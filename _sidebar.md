@@ -1,0 +1,20 @@
+* Introduction (~5 minutes)
+  * [👨‍🏫 *Who are we?*](/introduction/us.md)
+  * [🖥️ *What is ink?*](/introduction/ink.md)
+  * [🧰 Tools Needed](/introduction/tools.md)
+---
+* Stories (~20 minutes)
+  * [📓 Story Terms](/stories/terms.md)
+  * [✨ Creating Output](/stories/output.md)
+  * [📜 Simple Alternatives](/stories/alternatives.md)
+  * [✋ Example: *Adventure!*](/examples/adventure.md)
+---
+* Interactivity (~20 minutes)
+  * [📓 Interactivity Terms](/interactivity/terms.md)
+  * [➡️ Diverts](/interactivity/diverts.md)
+  * [🔘 Making Choices](/interactivity/choices.md)
+  * [✋ Example: *Beauty and the Beast*](/examples/beautyandthebeast.md)
+---
+* Resources (~5 minutes)
+  * [📼 Videos](/resources/videos.md)
+  * [📚 Books](/resources/books.md)
