@@ -14,3 +14,4 @@ This is best viewed using GitHub Pages [as a webpage](https://videlais.github.io
 
 ## Citation
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6940724.svg)](https://doi.org/10.5281/zenodo.6940724)
