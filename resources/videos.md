@@ -13,6 +13,11 @@
 * [Part 3: Building a Better Interface](https://www.youtube.com/watch?v=jooTW8hSyHY&list=PLlXuD3kyVEr5V8bK9TnEptHgoa_mYMTjb)
 * [Part 4: Tags and Rich Text](https://www.youtube.com/watch?v=USzgrA08sOI&list=PLlXuD3kyVEr5V8bK9TnEptHgoa_mYMTjb&index=5)
 
+## Learning ink (designed for digital media course)
+
+* [Beginning Ink](https://www.youtube.com/watch?v=4zG2CjooOlk)
+* [Advanced Ink](https://www.youtube.com/watch?v=4EJDpYfkv9I)
+
 ## JavaScript + Ink (Ink 0.8)
 
 * [Part 1: Ink for Web](https://www.youtube.com/watch?v=NhfAtGDRgg0&list=PLlXuD3kyVEr5UCOV9PkoS_pJ4hq98vaK_&index=2&t=0s)

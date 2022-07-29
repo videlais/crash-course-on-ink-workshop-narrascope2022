@@ -1,6 +1,6 @@
 # Working with ink
 
-ink, with a lowercase 'i', is a narrative scripting language.
+[ink](https://github.com/inkle/ink), with a lowercase 'i', is a narrative scripting language.
 
 ## *Scripting narratives?*
 
