@@ -7,13 +7,15 @@
   * [📓 Story Terms](/stories/terms.md)
   * [✨ Creating Output](/stories/output.md)
   * [📜 Simple Alternatives](/stories/alternatives.md)
+  * [🆒 Using Variables](/stories/variables.md)
   * [✋ Example: *Adventure!*](/examples/adventure.md)
 ---
 * Interactivity (~20 minutes)
   * [📓 Interactivity Terms](/interactivity/terms.md)
   * [➡️ Diverts](/interactivity/diverts.md)
   * [🔘 Making Choices](/interactivity/choices.md)
-  * [✋ Example: *Beauty and the Beast*](/examples/beautyandthebeast.md)
+  * [📖 Conditional Choices](/interactivity/conditional.md)
+  * [✋ Example: *Tell-tale Heart*](/examples/telltaleheart.md)
 ---
 * Resources (~5 minutes)
   * [📼 Videos](/resources/videos.md)

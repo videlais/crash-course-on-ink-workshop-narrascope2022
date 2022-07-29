@@ -29,13 +29,11 @@ We can see this in Inky, as each line has its own line number. This helps us und
 Each comment is its own line. We can use them to break up larger content into smaller parts where we leave notes for ourselves and others to better understand the content:
 
 ```ink
-# Do we really want to quote song lyrics here?
+// Do we really want to quote song lyrics here?
 Well, people, I've been here before.
-# What if we re-worded this slightly?
+// What if we re-worded this slightly?
 I've walked this floor and seen this room.
 ```
-
-When using comments, they will appear in Inky *after* the previous line of content. In the previous example, the comment `Do we really want to quote song lyrics here?` will appear after the line before it. This may seem confusing, but remember the comments will not appear in the output of the story outside of Inky.
 
 ## Gluing lines
 

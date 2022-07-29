@@ -60,3 +60,24 @@ This is chapter 3.
 ```
 
 The first stitch in a knot is considered the default content. When the story moves to this location, the first stitch's content will always be accessed.
+
+Accessing a stitch within a knot follows a *dot notation*. The name of the knot is first and the stitch second with a period, `.`, between them. In the previous example, the second chapter could be accessed by using the divert target of `TableOfContents.Chapter2`:
+
+```ink
+// Jump directly to Chapter 2
+-> TableOfContents.Chapter2
+
+== TableOfContents
+
+= Chapter1
+This is chapter 1.
+-> END
+
+= Chapter2
+This is chapter 2.
+-> END
+
+= Chapter3
+This is chapter 3.
+-> END
+```

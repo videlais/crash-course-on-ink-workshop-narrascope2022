@@ -86,10 +86,10 @@ Encountering a weave a second time using a divert can create problems:
 
 In the previous example, each loop back to the knot would eliminate a choice until the player picked them all, at which point the story would crash end without an explicit divert to `END`.
 
-To help fix this, there is an alternative for default choices named *repeating choices*. These use the plus sign, `+`, as they are "added back" to a weave after use:
+To help fix this, there is an alternative for default choices named *sticky choices*. These use the plus sign, `+`, as they are "added back" to a weave after use:
 
 ```ink
-In this example, each choice in the weave is a repeating one.
+In this example, each choice in the weave is a sticky one.
 The player can continue to pick from any of them.
 -> choices
 

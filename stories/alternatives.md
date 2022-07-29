@@ -2,7 +2,9 @@
 
 Interactive stories are often composed of both static and dynamic content. So far, we have seen static content in the form of the concepts of lines and comments with using glue to create more complex multi-line output.
 
-Dynamic content takes the form of using *alternatives* using curly brackets, `{}`, around content separated by a bar `|`, between each entry.
+Dynamic content takes the form of using *alternatives* with curly brackets, `{}`, around content separated by a bar `|`, between each entry.
+
+?> **Tip** Most programming functionality in ink appears in curly brackets.
 
 ## Sequence
 

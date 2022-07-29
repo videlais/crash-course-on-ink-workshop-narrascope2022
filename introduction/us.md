@@ -2,11 +2,11 @@
 
 **Daniel Cox** is a PhD candidate at the University of Central Florida. He is the creator and was the primary contributor to the *Twine Cookbook* (2017) for multiple years, co-authored *The Unofficial Ink Cookbook* (2020), and wrote *Dynamic Story Scripting with the ink Scripting Language* (2021).
 
-Twitter: [Videlais](https://twitter.com/Videlais)
+Twitter: [@Videlais](https://twitter.com/Videlais)
 
 GitHub: [Videlais](https://github.com/videlais)
 
-Email: [Dan Cox](mailto: "dan.cox@videlais.com")
+Email: [Dan Cox](mailto:dan.cox@videlais.com)
 
 ---
 
@@ -14,4 +14,4 @@ Email: [Dan Cox](mailto: "dan.cox@videlais.com")
 
 Twitter: [@kenton_howard](https://twitter.com/kenton_howard)
 
-Email: [Kenton Howard](mailto: "Kenton.Howard@ucf.edu")
+Email: [Kenton Howard](mailto:Kenton.Howard@ucf.edu)
